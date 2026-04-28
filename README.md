@@ -391,6 +391,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 Made with ❤️ for Indian Jewellers
 
-**[⭐ Star this repo](https://github.com/YOUR_USERNAME/jeweltrack)** if you found it useful!
+**[⭐ Star this repo](https://github.com/akash0953-py/JewelTrack-App)** if you found it useful!
 
 </div>
