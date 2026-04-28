@@ -148,8 +148,15 @@ lib/
 │
 ├── providers/
 │   └── app_providers.dart              # All Riverpod state (karigars, jobs, search)
+│   ├── auth_provider.dart
+│   └── theme_provider.dart
+│
+├── services/
+│    └── auth_service.dart 
 │
 ├── screens/
+│   ├── auth/
+│   │   └── auth_login_screen.dart 
 │   ├── login/
 │   │   └── login_screen.dart           # One-time setup screen
 │   ├── home/
