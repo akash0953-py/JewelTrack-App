@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/jeweltrack/main/screenshots/01_login.svg" width="180" alt="JewelTrack Logo"/>
+<img src="asstes/app_icon.png" width="180" alt="JewelTrack Logo"/>
 
 # JewelTrack 💎
 
@@ -35,12 +35,12 @@ No spreadsheets. No paper ledgers. No internet required.
 
 | Login | Home | Karigar Detail |
 |:---:|:---:|:---:|
-| <img src="screenshots/01_login.svg" width="180"/> | <img src="screenshots/02_home.svg" width="180"/> | <img src="screenshots/03_karigar_detail.svg" width="180"/> |
+| <img src="assets/login_page.jpeg" width="180"/> | <img src="assets/home_page.jpeg" width="180"/> | <img src="assets/karigar_detail.jpeg" width="180"/> |
 | *One-time shop setup* | *Gold summary + karigar grid* | *Jobs, metrics & gold held* |
 
 | Job Detail | Add Job | History |
 |:---:|:---:|:---:|
-| <img src="screenshots/04_job_detail.svg" width="180"/> | <img src="screenshots/06_add_job.svg" width="180"/> | <img src="screenshots/05_history.svg" width="180"/> |
+| <img src="assets/job_detail.jpeg" width="180"/> | <img src="assets/add_job.jpeg" width="180"/> | <img src="assets/history.jpeg" width="180"/> |
 | *Design image, actions & work done* | *Photo, weight, karigar & date* | *Searchable completed jobs* |
 
 </div>
