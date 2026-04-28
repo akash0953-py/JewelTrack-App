@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.jeweltrack"
+    namespace = "com.akash.jeweltrack"
     compileSdk =   36         //flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
