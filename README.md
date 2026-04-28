@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="asstes/app_icon.png" width="180" alt="JewelTrack Logo"/>
+<img src="assets/app_icon.png" width="180" alt="JewelTrack Logo"/>
 
 # JewelTrack 💎
 
