@@ -366,23 +366,36 @@ Please make sure to:
 ## 📄 License
 
 ```
-MIT License
-
 Copyright (c) 2025 AKASH GOWDA
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+All Rights Reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This software and associated files ("JewelTrack") are the exclusive property
+of AKASH GOWDA.
+
+No person or organization is permitted to:
+
+- Copy
+- Modify
+- Merge
+- Distribute
+- Sublicense
+- Sell
+- Reproduce
+- Reverse engineer
+- Use commercially
+
+any part of this software without explicit written permission from
+AKASH GOWDA.
+
+Unauthorized use, reproduction, or distribution of this software is strictly prohibited.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
 ```
 
 ---
